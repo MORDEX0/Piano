@@ -1,0 +1,14 @@
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\Fortpiano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\Fortpiano.AssemblyInfoInputs.cache
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\Fortpiano.AssemblyInfo.cs
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\Fortpiano.csproj.CoreCompileInputs.cache
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\bin\Debug\net7.0\Fortpiano.exe
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\bin\Debug\net7.0\Fortpiano.deps.json
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\bin\Debug\net7.0\Fortpiano.runtimeconfig.json
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\bin\Debug\net7.0\Fortpiano.dll
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\bin\Debug\net7.0\Fortpiano.pdb
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\Fortpiano.dll
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\refint\Fortpiano.dll
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\Fortpiano.pdb
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\Fortpiano.genruntimeconfig.cache
+C:\Users\24070\source\repos\Fortpiano\Fortpiano\obj\Debug\net7.0\ref\Fortpiano.dll
